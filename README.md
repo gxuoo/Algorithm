@@ -16,8 +16,8 @@ Algorithm/
     ├── D2/
     │   └── 1234. 문제이름/
     │       ├── README.md              # 지문(백준허브) + 풀이 보강(Claude)
-    │       ├── Solution.java          # Java 제출 코드
-    │       └── Solution.py            # Python 제출 코드
+    │       ├── 문제이름.java          # Java 제출 코드
+    │       └── 문제이름.py            # Python 제출 코드
     ├── D3/
     ├── D4/
     ├── D5/
@@ -33,7 +33,7 @@ Algorithm/
 
 | 번호 | 문제 이름 | 난이도 | 유형 | 언어 | 복습 | 링크 |
 |:----:|-----------|:------:|------|:----:|:----:|------|
-| 21936 | 길이가 M인 회문 찾기 | D1 | 완전탐색, 문자열 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" alt="Python"/> |      | [바로가기](SWEA/D1/21936.%20%EA%B8%B8%EC%9D%B4%EA%B0%80%20M%EC%9D%B8%20%ED%9A%8C%EB%AC%B8%20%EC%B0%BE%EA%B8%B0) |
+| 21936 | [길이가 M인 회문 찾기](SWEA/D1/21936.%20%EA%B8%B8%EC%9D%B4%EA%B0%80%20M%EC%9D%B8%20%ED%9A%8C%EB%AC%B8%20%EC%B0%BE%EA%B8%B0) | D1 | 완전탐색, 문자열 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" alt="Python"/> |      | [문제 보기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AZFkKmLa1zEDFAQW) |
 
 > 언어: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" alt="Python"/> Python ·
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16" alt="Java"/> Java
@@ -59,4 +59,5 @@ Algorithm/
    → Claude가 새로 올라온 문제들의 README를 보강하고, 유형을 분류해 인덱스 표를 갱신한 뒤 커밋/푸시한다.
 3. 나는 복습하고 싶은 문제에 🔁만 표시한다.
 
-> 💡 커밋 메시지는 백준허브와 `/polish`가 자동 생성하므로 별도의 커밋 컨벤션은 두지 않습니다.
+> 💡 커밋 컨벤션: 백준허브는 `[D1] Title: ..., -BaekjoonHub` 형식으로 자동 커밋하고,
+> `/polish` 정리 커밋은 `polish: <문제번호들>` (예: `polish: 21936, 1859`)을 사용합니다.
