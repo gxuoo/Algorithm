@@ -33,7 +33,7 @@ Algorithm/
 
 | 번호 | 문제 이름 | 난이도 | 유형 | 언어 | 복습 | 링크 |
 |:----:|-----------|:------:|------|:----:|:----:|------|
-| —    | _아직 없음_ | —    | —    | —    |      | —    |
+| 21936 | 길이가 M인 회문 찾기 | D1 | 완전탐색, 문자열 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" alt="Python"/> |      | [바로가기](SWEA/D1/21936.%20%EA%B8%B8%EC%9D%B4%EA%B0%80%20M%EC%9D%B8%20%ED%9A%8C%EB%AC%B8%20%EC%B0%BE%EA%B8%B0) |
 
 > 언어: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" alt="Python"/> Python ·
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16" alt="Java"/> Java
