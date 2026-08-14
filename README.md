@@ -1,6 +1,6 @@
-# 🧩 Algorithm — SWEA 문제 풀이 기록
+# 🧩 Algorithm — SWEA, 프로그래머스 문제 풀이 기록
 
-SWEA에서 푼 문제들을 기록하는 저장소입니다.
+SWEA, 프로그래머스에서 푼 문제들을 기록하는 저장소입니다.
 
 [백준허브(BaekjoonHub)](https://chromewebstore.google.com/detail/ccammcjdkpgjmcpijpahlehmapgmphmk)로 풀이가 자동 업로드되고,
 결과물을 Claude가 다듬어 풀이 설명과 아래 인덱스 표를 채웁니다.
@@ -11,11 +11,18 @@ SWEA에서 푼 문제들을 기록하는 저장소입니다.
 
 ```
 Algorithm/
-├── README.md                          # 현재 파일 — 전체 인덱스 & 운영 규칙
+├── README.md                        # 현재 파일 — 전체 인덱스 & 운영 규칙
+├── 프로그래머스/
+│   ├── 1/
+│   │   └── 86491. 최소직사각형/
+│   │       ├── README.md            # 지문(백준허브) + 풀이 보강(Claude)
+│   │       ├── 문제이름.java          # Java 제출 코드
+│   │       └── 문제이름.py            # Python 제출 코드
+│   │
 └── SWEA/
     ├── D2/
     │   └── 1234. 문제이름/
-    │       ├── README.md              # 지문(백준허브) + 풀이 보강(Claude)
+    │       ├── README.md            # 지문(백준허브) + 풀이 보강(Claude)
     │       ├── 문제이름.java          # Java 제출 코드
     │       └── 문제이름.py            # Python 제출 코드
     ├── D3/
@@ -43,7 +50,7 @@ Algorithm/
 | 1959 | [두 개의 숫자열](SWEA/D2/1959.%20%EB%91%90%20%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90%EC%97%B4) | D2 | 구현, 완전탐색 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" alt="Python"/> |      | [문제 보기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpoFaAS4DFAUq) |
 | 1979 | [어디에 단어가 들어갈 수 있을까](SWEA/D2/1979.%20%EC%96%B4%EB%94%94%EC%97%90%20%EB%8B%A8%EC%96%B4%EA%B0%80%20%EB%93%A4%EC%96%B4%EA%B0%88%20%EC%88%98%20%EC%9E%88%EC%9D%84%EA%B9%8C) | D2 | 구현, 완전탐색 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" alt="Python"/> |      | [문제 보기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PuPq6AaQDFAUq) |
 | 20230 | [풍선팡 보너스게임2](SWEA/D2/20230.%20%ED%92%8D%EC%84%A0%ED%8C%A1%20%EB%B3%B4%EB%84%88%EC%8A%A4%EA%B2%8C%EC%9E%842) | D2 | 구현, 완전탐색 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" alt="Python"/> |      | [문제 보기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AY3FFOTaN7EDFAXh) |
-| 25052 | [등산로](SWEA/D2/25052.%20%EB%93%B1%EC%82%B0%EB%A1%9C) | D2 | DFS, 그리디, 완전탐색 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" alt="Python"/> | 🔁 | [문제 보기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZiyl6OKpUjHBIP9) |
+| 25052 | [등산로](SWEA/D2/25052.%20%EB%93%B1%EC%82%B0%EB%A1%9C) | D2 | DFS, 그리디, 완전탐색 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" alt="Python"/> |      | [문제 보기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZiyl6OKpUjHBIP9) |
 | 25985 | [숫자열의 최대 곱](SWEA/D2/25985.%E2%80%85%EC%88%AB%EC%9E%90%EC%97%B4%EC%9D%98%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%EA%B3%B1) | D2 | 구현, 완전탐색 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" alt="Python"/> |      | [문제 보기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AZvmEUAqG6LHBIQE) |
 | 26045 | [부분 수열 판별](SWEA/D2/26045.%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%ED%8C%90%EB%B3%84) | D2 | 그리디, 투 포인터, 구현 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" alt="Python"/> |      | [문제 보기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZwe0FZaG1bHBIPa) |
 | 26059 | [과일 등급 분류](SWEA/D2/26059.%20%EA%B3%BC%EC%9D%BC%20%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98) | D2 | 정렬, 완전탐색, 구현 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" alt="Python"/> |      | [문제 보기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZwl9ifa3dLHBIT3) |
@@ -62,7 +69,7 @@ Algorithm/
 
 복습이 필요하다고 표시한 문제를 모아둡니다.
 
-- [ ] [25052. 등산로](SWEA/D2/25052.%20%EB%93%B1%EC%82%B0%EB%A1%9C) — 가장 낮은 한 칸만 따라가는 그리디 방식이라, 여러 갈래를 모두 탐색하는 일반 DFS + 백트래킹으로도 풀어보기
+- [x] [25052. 등산로](SWEA/D2/25052.%20%EB%93%B1%EC%82%B0%EB%A1%9C) — 가장 낮은 한 칸만 따라가는 그리디 방식이라, 여러 갈래를 모두 탐색하는 일반 DFS + 백트래킹으로도 풀어보기
 
 ## ⚙️ 저장소 운영 방식
 
