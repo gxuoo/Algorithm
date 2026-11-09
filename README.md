@@ -1,9 +1,9 @@
-# 🧩 Algorithm — SWEA, 프로그래머스, 코드트리 문제 풀이 기록
+# 🧩 Algorithm 문제 풀이 기록
 
 SWEA, 프로그래머스, 코드트리에서 푼 문제들을 기록하는 저장소입니다.
 
 [백준허브(BaekjoonHub)](https://chromewebstore.google.com/detail/ccammcjdkpgjmcpijpahlehmapgmphmk)로 SWEA와 프로그래머스 풀이가,
-코드트리의 GitHub 연동으로 코드트리 풀이가 자동 업로드됩니다.
+코드트리의 GitHub 연동으로 [코드트리](https://www.codetree.ai/ko) 풀이가 자동 업로드됩니다.
 
 ## 📁 폴더 구조
 
@@ -37,13 +37,6 @@ Algorithm/
 ```
 
 - **난이도**는 폴더로 구분됩니다. (백준허브가 자동 생성)
-
-## 🔁 다시 풀어볼 문제
-
-복습이 필요하다고 표시한 문제를 모아둡니다.
-
-- [x] [25052. 등산로](SWEA/D2/25052.%20%EB%93%B1%EC%82%B0%EB%A1%9C) — 가장 낮은 한 칸만 따라가는 그리디 방식이라, 여러 갈래를 모두 탐색하는 일반 DFS + 백트래킹으로도 풀어보기
-- [ ] [5656. [모의 SW 역량테스트] 벽돌 깨기](SWEA/D3/5656.%20%5B%EB%AA%A8%EC%9D%98%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%5D%20%EB%B2%BD%EB%8F%8C%20%EA%B9%A8%EA%B8%B0) — 남은 벽돌이 0이 되면 즉시 끝내는 가지치기, 그리고 같은 판이 반복될 때의 중복 제거를 넣어 920 ms 줄여보기
 
 ## ⚙️ 저장소 운영 방식
 
